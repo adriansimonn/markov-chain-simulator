@@ -102,21 +102,6 @@ def print_markov_chain(chain, transitions):
 
 
 def test_accuracy(text, chain):
-    """
-    Test the accuracy of the Markov chain by predicting character types.
-
-    Uses the chain to predict whether each next character will be a vowel
-    or consonant based on the current character, then compares to actual.
-
-    Args:
-        text: Text to test on
-        chain: Markov chain with transition probabilities
-
-    Returns:
-        float: Accuracy percentage
-        int: Number of correct predictions
-        int: Total predictions made
-    """
     correct = 0
     total = 0
     prev_type = None

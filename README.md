@@ -1,6 +1,6 @@
-# Markov Chain Character Prediction Simulator
+## Markov Chain Character Prediction Simulator
 
-A simple script that demonstrates Markov chain probability modeling by predicting whether the next character in a text sequence will be a vowel or consonant based on the current character type.
+A simple script that demonstrates Markov chain probability modeling by predicting whether the next character in a text sequence will be a vowel or consonant based on the current character type. Not a serious project, but a basic introduction to markov chains.
 
 ## Mathematical Explanation
 
