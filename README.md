@@ -90,9 +90,9 @@ TEXT = "Default text..."     # Direct text input (used when USE_FILE = False)
 
 ```
 ╔═════════════════════════════════════════════════════════╗
-║                                                          ║
+║                                                         ║
 ║    MARKOV CHAIN CHARACTER PREDICTION SIMULATOR          ║
-║                                                          ║
+║                                                         ║
 ╚═════════════════════════════════════════════════════════╝
 
 Loaded text from 'sample.txt' (1337 characters)
